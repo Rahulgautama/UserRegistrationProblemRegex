@@ -7,17 +7,17 @@ namespace UserRegistrationProblemRegex
     {
         static void Main(string[] args)
         {
-            
-                Console.WriteLine("Please Enter your first Name With first char cap and min 3 len");
+           
+                Console.WriteLine("Please Enter your Email");
                 var lastName = Console.ReadLine();
-                var regexDt =new Regex("^[A-Z][a-zA-Z]{2,20}$");               
+                var regexDt = new Regex(@"^([\w\.\-]+)@([\w\-]+)((\.(\w){2,3})+)$");
 
                 if (regexDt.IsMatch(lastName))
-                    Console.WriteLine("Valid Last Name");
+                    Console.WriteLine("Valid Email Name");
                 else
-                    Console.WriteLine("Not Valid Last Name");
+                    Console.WriteLine("Not Valid Email Name");
 
-
+            
             
         }
     }
