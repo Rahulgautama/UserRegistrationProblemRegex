@@ -8,7 +8,7 @@ namespace UserRegistrationProblemRegex
         static void Main(string[] args)
         {
            
-                Console.WriteLine("Please Enter your Password min 8 digit upper,lower,number,special sym");
+                Console.WriteLine("Please Enter your Password min 8 digit upper");
                 var lastName = Console.ReadLine();
                 var regexDt = new Regex(@"^[a-z]{8,16}$");
 
