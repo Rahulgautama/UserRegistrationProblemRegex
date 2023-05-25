@@ -10,7 +10,7 @@ namespace UserRegistrationProblemRegex
            
                 Console.WriteLine("Please Enter your Password min 8 digit upper,lower,number,special sym");
                 var lastName = Console.ReadLine();
-                var regexDt = new Regex(@"(?=^.{8,16}$)((?=.*\d)|(?=.*\W+))(?![.\n])(?=.*[A-Z])(?=.*[a-z]).*$");
+                var regexDt = new Regex(@"^\w{8,16}$");
 
                 if (regexDt.IsMatch(lastName))
                     Console.WriteLine("Valid Password ");
