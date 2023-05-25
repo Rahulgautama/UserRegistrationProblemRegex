@@ -1,0 +1,11 @@
+D:\DLS-RFP-278\Project\UserRegistrationProblemRegex\UserRegistrationProblemRegex\bin\Debug\netcoreapp3.1\UserRegistrationProblemRegex.exe
+D:\DLS-RFP-278\Project\UserRegistrationProblemRegex\UserRegistrationProblemRegex\bin\Debug\netcoreapp3.1\UserRegistrationProblemRegex.deps.json
+D:\DLS-RFP-278\Project\UserRegistrationProblemRegex\UserRegistrationProblemRegex\bin\Debug\netcoreapp3.1\UserRegistrationProblemRegex.runtimeconfig.json
+D:\DLS-RFP-278\Project\UserRegistrationProblemRegex\UserRegistrationProblemRegex\bin\Debug\netcoreapp3.1\UserRegistrationProblemRegex.runtimeconfig.dev.json
+D:\DLS-RFP-278\Project\UserRegistrationProblemRegex\UserRegistrationProblemRegex\bin\Debug\netcoreapp3.1\UserRegistrationProblemRegex.dll
+D:\DLS-RFP-278\Project\UserRegistrationProblemRegex\UserRegistrationProblemRegex\bin\Debug\netcoreapp3.1\UserRegistrationProblemRegex.pdb
+D:\DLS-RFP-278\Project\UserRegistrationProblemRegex\UserRegistrationProblemRegex\obj\Debug\netcoreapp3.1\UserRegistrationProblemRegex.csprojAssemblyReference.cache
+D:\DLS-RFP-278\Project\UserRegistrationProblemRegex\UserRegistrationProblemRegex\obj\Debug\netcoreapp3.1\UserRegistrationProblemRegex.AssemblyInfoInputs.cache
+D:\DLS-RFP-278\Project\UserRegistrationProblemRegex\UserRegistrationProblemRegex\obj\Debug\netcoreapp3.1\UserRegistrationProblemRegex.AssemblyInfo.cs
+D:\DLS-RFP-278\Project\UserRegistrationProblemRegex\UserRegistrationProblemRegex\obj\Debug\netcoreapp3.1\UserRegistrationProblemRegex.dll
+D:\DLS-RFP-278\Project\UserRegistrationProblemRegex\UserRegistrationProblemRegex\obj\Debug\netcoreapp3.1\UserRegistrationProblemRegex.pdb
