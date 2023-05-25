@@ -9,13 +9,13 @@ namespace UserRegistrationProblemRegex
         {
             
                 Console.WriteLine("Please Enter your first Name With first char cap and min 3 len");
-                var firstName = Console.ReadLine();
+                var lastName = Console.ReadLine();
                 var regexDt =new Regex("^[A-Z][a-zA-Z]{2,20}$");               
 
-                if (regexDt.IsMatch(firstName))
-                    Console.WriteLine("Valid First Name");
+                if (regexDt.IsMatch(lastName))
+                    Console.WriteLine("Valid Last Name");
                 else
-                    Console.WriteLine("Not Valid First Name");
+                    Console.WriteLine("Not Valid Last Name");
 
 
             
